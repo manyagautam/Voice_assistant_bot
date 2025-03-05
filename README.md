@@ -1,4 +1,8 @@
-# Voice Assistant Bot
-Created a voice assistant bot using OpenAI APIs models, such as gpt-4o-mini (for generating response), Whispher-1 (for converting speech to text) and TTS-1 (for converting text to speech).
-
-## Try app [here](https://personalvoiceassistant.streamlit.app/)
+# BFSI-OCR
+The goal of this project is to develop a robust system that uses Optical Character
+Recognition (OCR) for efficiently extracting and analyzing data from bank statements, and other documents in
+various formats. By leveraging Large Language Models
+(LLMs), the system will help in the process of fetching account statements via API, extract
+relevant details, even from Images,Pdfs using OCR and perform an in-depth analysis of salaries and expenses through visualization. This project
+aims to streamline financial data interpretation, providing valuable insights to banks,
+financial institutions, and individuals.
